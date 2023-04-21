@@ -1,7 +1,7 @@
 From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Andrey Kosyakov <caseq@chromium.org>
 Date: Thu, 13 Apr 2023 03:55:24 +0000
-Subject: [m112] Retain DevToolsAgentHost after ForceDetachAllSessions()
+Subject: Retain DevToolsAgentHost after ForceDetachAllSessions()
 
 (cherry picked from commit 8c4aee2a90d08535cfb1bf0a59e00cae956b1762)
 
